@@ -1,8 +1,10 @@
 ﻿using System;
-namespace ExemploClassePararela
+namespace ExemploClassePararela.Droid
 {
     public class SOInfo
-    { 
-        public static string Dados = Android.OS.Build.Manufacturer;
+    {
+        public SOInfo()
+        {
+        }
     }
 }

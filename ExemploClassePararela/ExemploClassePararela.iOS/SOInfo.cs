@@ -1,9 +1,10 @@
 ﻿using System;
-namespace ExemploClassePararela
+namespace ExemploClassePararela.iOS
 {
     public class SOInfo
     {
-        public static string Dados = new UIKit.UIDevice().Model;
-    
+        public SOInfo()
+        {
+        }
     }
 }

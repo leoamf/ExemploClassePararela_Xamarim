@@ -12,7 +12,6 @@ namespace ExemploClassePararela
         public MainPage()
         {
             InitializeComponent();
-           // lblInfo.Text = ExemploClassePararela.
         }
     }
 }

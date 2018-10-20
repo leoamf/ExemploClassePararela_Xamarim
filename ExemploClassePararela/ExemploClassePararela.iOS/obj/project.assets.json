@@ -124,19 +124,6 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
-      },
-      "ExemploClassePararela/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.1.0.697729"
-        },
-        "compile": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -261,19 +248,6 @@
         "build": {
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
-        }
-      },
-      "ExemploClassePararela/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.1.0.697729"
-        },
-        "compile": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
         }
       }
     },
@@ -400,19 +374,6 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
-      },
-      "ExemploClassePararela/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.1.0.697729"
-        },
-        "compile": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -537,19 +498,6 @@
         "build": {
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
-        }
-      },
-      "ExemploClassePararela/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.1.0.697729"
-        },
-        "compile": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ExemploClassePararela.dll": {}
         }
       }
     }
@@ -705,16 +653,10 @@
         "xamarin.forms.3.1.0.697729.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "ExemploClassePararela/1.0.0": {
-      "type": "project",
-      "path": "../ExemploClassePararela/ExemploClassePararela.csproj",
-      "msbuildProject": "../ExemploClassePararela/ExemploClassePararela.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "ExemploClassePararela >= 1.0.0",
       "Xamarin.Forms >= 3.1.0.697729"
     ]
   },
@@ -741,11 +683,7 @@
       },
       "frameworks": {
         "xamarinios10": {
-          "projectReferences": {
-            "/Users/aluno/Desktop/ExemploClassePararela_Xamarim/ExemploClassePararela/ExemploClassePararela/ExemploClassePararela.csproj": {
-              "projectPath": "/Users/aluno/Desktop/ExemploClassePararela_Xamarim/ExemploClassePararela/ExemploClassePararela/ExemploClassePararela.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

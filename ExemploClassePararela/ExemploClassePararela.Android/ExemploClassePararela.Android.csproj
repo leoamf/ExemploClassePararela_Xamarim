@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{98202F5B-870A-4B52-8FE1-5587A0474839}</ProjectGuid>
+    <ProjectGuid>{FC95F468-0E68-4850-8960-31B26AADBAC1}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -92,11 +92,6 @@
     <Folder Include="Resources\drawable-xxhdpi\" />
     <Folder Include="Resources\drawable-xxxhdpi\" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ExemploClassePararela\ExemploClassePararela.csproj">
-      <Project>{5D51A1B5-C606-4CE6-8981-117F9DD2A982}</Project>
-      <Name>ExemploClassePararela</Name>
-    </ProjectReference>
-  </ItemGroup>
+  <Import Project="..\ExemploClassePararela\ExemploClassePararela.projitems" Label="Shared" />
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
