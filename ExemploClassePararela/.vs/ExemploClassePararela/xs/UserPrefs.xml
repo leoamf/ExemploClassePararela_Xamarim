@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{98202F5B-870A-4B52-8FE1-5587A0474839}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploClassePararela/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExemploClassePararela/MainPage.xaml.cs" Line="15" Column="13" />
+      <File FileName="ExemploClassePararela/MainPage.xaml" Line="5" Column="91" />
+      <File FileName="ExemploClassePararela.Android/SOInfo.cs" Line="4" Column="24" />
+      <File FileName="ExemploClassePararela.iOS/SOInfo.cs" Line="6" Column="35" />
+      <File FileName="ExemploClassePararela.iOS/Resources/LaunchScreen.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExemploClassePararela.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+</Properties>
